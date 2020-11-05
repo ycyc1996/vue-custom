@@ -11,6 +11,7 @@
     "url": "git+https://github.com/ycyc1996/vue-custom.git",
     "directory": "packages/vue-cli-plugin-custom-commitlint"
   },
+  "dependencies": {},
   "author": "answer",
   "license": "ISC"
 }
