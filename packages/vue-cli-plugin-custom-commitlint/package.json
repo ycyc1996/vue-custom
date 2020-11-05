@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-custom-commitlint",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycyc1996/vue-custom.git",
+    "directory": "packages/vue-cli-plugin-custom-commitlint"
+  },
+  "author": "answer",
+  "license": "ISC"
+}
